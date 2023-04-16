@@ -1,3 +1,5 @@
+#This is one of my first projects with python being a beginner.
+
 print('This is a calculator')
 print("1. Sumar")
 print("2. Restar")
